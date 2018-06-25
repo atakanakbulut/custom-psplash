@@ -1,0 +1,8 @@
+this layer prepared for custom logo Psplash layer tested that one
+
+ARCH 
+x86_64-linux
+ARM(IMX7D, BCM237)
+
+Check bblayers path git2 for your yocto environment  
+
