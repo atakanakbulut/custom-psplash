@@ -4,5 +4,6 @@ ARCH
 x86_64-linux
 ARM(IMX7D, BCM237)
 
-Check bblayers path git2 for your yocto environment  
+Check bblayers path git2 for your yocto environment
+Check Mode 3:RGB, 4:RGBA   
 
